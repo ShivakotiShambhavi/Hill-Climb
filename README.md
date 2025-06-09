@@ -14,8 +14,8 @@ This project lets you control the **Hill Climb Racing** game using **hand gestur
 > ✊ **Closed Fist = BRAKE** (Left Arrow Key)  
 > ✅ Works with **either hand**, palm **or** back side!
 ---
-![image alt](https://github.com/RAVULAAJAY/HillClimb-GestureControl/blob/5801add92379186697bae28e9b8d931d621307aa/images/GAS.png)
-![image alt](https://github.com/RAVULAAJAY/HillClimb-GestureControl/blob/33b5cc531cee1c0b0c31567b89a174d7546736bc/images/BRAKE.png)
+![image alt](https://github.com/ShivakotiShambhavi/Hill-Climb/blob/3cb317eb7d654073bd26ffbbe581d735c473aae2/images/Screenshot%202025-06-09%20142024.png)
+![image alt](https://github.com/ShivakotiShambhavi/Hill-Climb/blob/3cb317eb7d654073bd26ffbbe581d735c473aae2/images/Screenshot%202025-06-09%20142047.png)
 ---
 
 ## ✨ Features
